@@ -1,21 +1,59 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": false,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [
+    {
+      "login_name": "Miguel-212",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260948381?v=4",
+      "admin": false
+    },
+    {
+      "login_name": "dt961",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260949584?v=4",
+      "admin": false
+    },
+    {
+      "login_name": "isaacmendo2005-alt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260947157?v=4",
+      "admin": false
+    }
+  ],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "elliecwalters",
+    "is_private": false,
+    "title": "AI Disinformation Rhetorics ",
+    "description": "Rhetorically analyzing deepfakes and other synthetic media have been created for weather reporters and alike, which is a big, rising problem. ",
+    "language": "en",
+    "slug": "SyntheticMediaAnalysis",
+    "creator": "elliecwalters",
+    "authors": "Ellie Walters, Miguel Sanchez, Dang Tran, and Isaac Mendoza",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [
+      {
+        "login_name": "Miguel-212",
+        "avatar_url": "https://avatars.githubusercontent.com/u/260948381?v=4",
+        "admin": false
+      },
+      {
+        "login_name": "dt961",
+        "avatar_url": "https://avatars.githubusercontent.com/u/260949584?v=4",
+        "admin": false
+      },
+      {
+        "login_name": "isaacmendo2005-alt",
+        "avatar_url": "https://avatars.githubusercontent.com/u/260947157?v=4",
+        "admin": false
+      }
+    ],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-02-11T15:58:08.410Z",
+    "updated_at": "2026-02-11T15:58:08.410Z"
   }
 }
