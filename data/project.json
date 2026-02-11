@@ -6,19 +6,27 @@
   },
   "users": [
     {
-      "login_name": "Miguel-212",
-      "avatar_url": "https://avatars.githubusercontent.com/u/260948381?v=4",
-      "admin": false
-    },
-    {
-      "login_name": "dt961",
-      "avatar_url": "https://avatars.githubusercontent.com/u/260949584?v=4",
-      "admin": false
+      "login_name": "elliecwalters",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260947253?v=4",
+      "admin": true
     },
     {
       "login_name": "isaacmendo2005-alt",
       "avatar_url": "https://avatars.githubusercontent.com/u/260947157?v=4",
-      "admin": false
+      "admin": false,
+      "not_accepted": true
+    },
+    {
+      "login_name": "Miguel-212",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260948381?v=4",
+      "admin": false,
+      "not_accepted": true
+    },
+    {
+      "login_name": "dt961",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260949584?v=4",
+      "admin": false,
+      "not_accepted": true
     }
   ],
   "project": {
@@ -54,6 +62,27 @@
       "tags": []
     },
     "created_at": "2026-02-11T15:58:08.410Z",
-    "updated_at": "2026-02-11T15:58:08.410Z"
-  }
+    "updated_at": "2026-02-11T15:58:08.410Z",
+    "generate_pages_site": false
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "264db974-cf3e-45c6-9ab2-c4aace49c089": {
+      "content": [],
+      "created_at": "2026-02-11T15:58:08.430Z",
+      "created_by": "elliecwalters",
+      "title": "AI Disinformation Rhetorics ",
+      "updated_at": "2026-02-11T15:58:08.430Z",
+      "updated_by": "elliecwalters",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "264db974-cf3e-45c6-9ab2-c4aace49c089"
+  ]
 }
