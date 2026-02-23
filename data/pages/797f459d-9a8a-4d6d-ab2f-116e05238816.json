@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "06073561-e34e-4759-bd3b-a30e9d2fc847",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-02-23T16:10:32.783Z",
   "created_by": "dt961",
   "title": "AI Weather Man",
   "slug": "ai-weather-man",
-  "updated_at": "2026-02-23T16:10:32.783Z",
+  "updated_at": "2026-02-23T16:29:04.971Z",
   "updated_by": "dt961",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "06073561-e34e-4759-bd3b-a30e9d2fc847"
   }
