@@ -29,15 +29,35 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "The AI generated weather reporter uses his vocabulary to build a connection with his audience. He uses slang to create a tone that is relatable to young audiences. Thus successfully attracting viewers' attention. (DT)"
+              "text": "In the opening sequence of this AI weather report a few days before Valentines day of 2026, the credibility of the video seems genuine with the AI weatherman being an older gentleman speaking in a very slight, friendly Southern accent that makes it easier to take in the information he gives. The setup he has with a streamer-like background in the first few seconds transitioning into multiple heat maps of weather events and footage of snow-stricken areas reinforce his aspect of ethos which is important to him to garner views and engagement with the audience. On the other hand, this ethos is important to the audience as a stakeholder as they want to view this video as \"reliable\" for weather news due to worry of actual upcoming weather like the storms in the Northeast US. (DT)"
             }
           ]
         }
       ],
       "tags": [
         {
-          "tag": "Audience",
+          "tag": "Communicator",
           "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Stakeholder",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "category": "Extra",
+          "tag": "Setting"
+        },
+        {
+          "tag": "Context",
+          "category": "Extra"
+        },
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeals"
         }
       ],
       "uuid": "597a9788-0c5e-4346-85a5-4a6b87f128b0"
