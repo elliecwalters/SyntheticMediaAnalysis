@@ -133,6 +133,31 @@
         }
       ],
       "uuid": "1958dd68-ff91-433b-88af-ec1ad8068e1b"
+    },
+    {
+      "start_time": 0,
+      "end_time": 1068,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Ai Weatherman video serves the purpose of informing the public about the current weather conditions in a video format. The Ai Weatherman does this in a timely manner in order to inform whoever is watching the YouTube video about the weather as quick as possible. This is a very efficient medium as this saves people the trouble of recording a video talking about the weather. Rather they could just upload the current weather report to a video generating website and have not only speedy weather reports but a way to make income while keeping the population and possible people that this effects up to date. (IM)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Purpose",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Medium",
+          "category": "Rhetorical Triangle"
+        }
+      ],
+      "uuid": "fd9ff442-03a4-415c-91a1-8c1ba0382a56"
     }
   ],
   "set": "Default",
