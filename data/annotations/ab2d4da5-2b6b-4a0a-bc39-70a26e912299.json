@@ -1,5 +1,140 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 16,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The AI generated weather reporter uses his vocabulary to build a connection with his audience. He uses slang to create a tone that is relatable to young audiences. Thus successfully attracting viewers' attention."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tone",
+          "category": "Extra"
+        }
+      ],
+      "uuid": "630dd8d6-9305-4b8e-a4d9-cd9cdcdf9435"
+    },
+    {
+      "start_time": 0,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The AI generated weather reporter uses his vocabulary to build a connection with his audience. He uses slang to create a tone that is relatable to young audiences. Thus successfully attracting viewers' attention."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience",
+          "category": "Rhetorical Triangle"
+        }
+      ],
+      "uuid": "597a9788-0c5e-4346-85a5-4a6b87f128b0"
+    },
+    {
+      "start_time": 51,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this part, the Ai weatherman is explaining what is happening to our world right now and how bad it could be if these two major weather conditions collide. The weatherman is presenting to the audience what the context is to him coming on the internet and speaking on this topic. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Extra"
+        }
+      ],
+      "uuid": "a419bbce-998a-4478-9734-77e4f0534a6a"
+    },
+    {
+      "start_time": 186,
+      "end_time": 227,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The AI weatherman's use of \"yo\" and \"I legit wanna see [the comments]\" is very informal and he makes use of exclamations of disbelief to sympathize with possibly the viewer's city that he's covering. This diction, or his informal style of speaking could be a indication that the target audience is young adults and older. Adding onto this, the AI weatherman acts very friendly and asks for viewers to comment their cities again if they are \"seein' any flakes out there, drop it in the comments.\" The rhetorical device of pathos can be at play here since he is engaging with the viewer by sympathizing with their struggles and asking for their comments to up his views and engagement which play hand-in-hand. It's like preying on the heartstrings of people who are worried about the upcoming storms and temperature fluctuations to persuade them to engage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Audience",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Diction",
+          "category": "Extra"
+        }
+      ],
+      "uuid": "27cd80f8-e0e9-4580-8b44-e02571681830"
+    },
+    {
+      "start_time": 799,
+      "end_time": 845,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The video was based on actual weather events that did occur in the world. It dramatizes the actual weather that happened but at the end of the day it is founded on actual weather occurances / predictions. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Exigence",
+          "category": "Rhetorical Triangle"
+        }
+      ],
+      "uuid": "a953e60f-aff5-43dd-8ff1-faa346c230ad"
+    },
+    {
+      "start_time": 221,
+      "end_time": 228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The AI weatherman asks the audience (people viewing this report) if they have seen any snow outside yet and if so, to \"drop it in the comments\" because he is curious if it lines up with the information he is providing. The AI weatherman is directly engaging with the audience by asking them a question and inviting them to comment. He is creating interaction instead of simply delivering information. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience",
+          "category": "Rhetorical Triangle"
+        }
+      ],
+      "uuid": "1958dd68-ff91-433b-88af-ec1ad8068e1b"
+    }
+  ],
   "set": "Default",
   "event_id": "06073561-e34e-4759-bd3b-a30e9d2fc847",
   "source_id": "daa79fac-69ad-4904-9c67-23490d87dbed"
