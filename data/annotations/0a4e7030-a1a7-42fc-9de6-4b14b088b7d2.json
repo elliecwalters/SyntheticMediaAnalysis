@@ -15,8 +15,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Stakeholder, Audience"
+          "tag": "Stakeholder",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Audience",
+          "category": "Rhetorical Triangle"
         }
       ],
       "uuid": "10e8beec-c8cb-4874-8508-8a72117ccfd6"
