@@ -103,8 +103,20 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Context/Tone/Audience/Ethos"
+          "tag": "Context",
+          "category": "Extra"
+        },
+        {
+          "tag": "Tone",
+          "category": "Extra"
+        },
+        {
+          "tag": "Audience",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
         }
       ],
       "uuid": "c2ddd162-c966-4ead-a283-1475c466ad11"
