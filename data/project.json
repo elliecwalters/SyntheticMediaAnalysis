@@ -133,17 +133,13 @@
           "tag": "Medium/Purpose"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Context/Tone/Audience/Ethos"
-        },
-        {
           "category": "Extra",
           "tag": "Setting"
         }
       ]
     },
     "created_at": "2026-02-11T15:58:08.410Z",
-    "updated_at": "2026-02-23T22:19:22.800Z",
+    "updated_at": "2026-02-23T23:19:49.516Z",
     "generate_pages_site": true
   },
   "annotations": {},
