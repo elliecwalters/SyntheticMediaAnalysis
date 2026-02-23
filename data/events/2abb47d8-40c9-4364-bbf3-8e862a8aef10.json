@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "103a326b-0aca-4046-8311-8978bec883d3": {
+      "label": "AI Report of Man on the Moon",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://ia601900.us.archive.org/33/items/reddit-video/Reddit%20Video.mp4",
+      "duration": 130
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "AI Report of Man on the Moon",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This is a video of multiple people involved in an interview, reporting a situation over a man going to the moon. "
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-02-23T16:10:32.610Z",
+  "created_by": "dt961",
+  "updated_at": "2026-02-23T16:10:32.610Z",
+  "updated_by": "dt961"
+}
