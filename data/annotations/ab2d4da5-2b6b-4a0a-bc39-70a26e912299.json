@@ -129,7 +129,15 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "The AI weatherman asks the audience (people viewing this report) if they have seen any snow outside yet and if so, to \"drop it in the comments\" because he is curious if it lines up with the information he is providing. The AI weatherman is directly engaging with the audience by asking them a question and inviting them to comment. He is creating interaction instead of simply delivering information. "
+              "text": "The AI weatherman asks the audience (those viewing the report) whether they have seen any snow outside yet and invites them to “drop it in the comments” if they have. By asking this question, he is directly acknowledging the viewers rather than treating them as simply recipients of information. This is shifting the dynamic between the communicator and the audience to an interactive exchange. Inviting the audience to comment fosters a sense of participation, making the audience feel involved in verifying the information provided. By encouraging engagement, the AI weatherman mimics the style of real influencers and online personalities, thereby increasing the report's authenticity. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(EW)"
             }
           ]
         }
