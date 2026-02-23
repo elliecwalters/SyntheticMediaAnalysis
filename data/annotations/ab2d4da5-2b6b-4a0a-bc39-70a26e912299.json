@@ -133,6 +133,27 @@
         }
       ],
       "uuid": "1958dd68-ff91-433b-88af-ec1ad8068e1b"
+    },
+    {
+      "start_time": 0,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Testing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Communicator",
+          "category": "Rhetorical Triangle"
+        }
+      ],
+      "uuid": "7d0f7460-778c-4aed-801c-080a8c761936"
     }
   ],
   "set": "Default",
