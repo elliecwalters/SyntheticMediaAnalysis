@@ -41,7 +41,13 @@
     "authors": "Ellie Walters, Miguel Sanchez, Dang Tran, and Isaac Mendoza",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "trentwintermeier",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112954339?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [
         {
@@ -133,8 +139,8 @@
       ]
     },
     "created_at": "2026-02-11T15:58:08.410Z",
-    "updated_at": "2026-02-23T16:34:08.487Z",
-    "generate_pages_site": false
+    "updated_at": "2026-02-23T16:34:18.117Z",
+    "generate_pages_site": true
   },
   "annotations": {},
   "events": {},
