@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "2abb47d8-40c9-4364-bbf3-8e862a8aef10",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-02-23T16:10:32.819Z",
   "created_by": "dt961",
   "title": "AI Report of Man on the Moon",
   "slug": "ai-report-of-man-on-the-moon",
-  "updated_at": "2026-02-23T16:10:32.819Z",
+  "updated_at": "2026-02-23T16:29:08.112Z",
   "updated_by": "dt961",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "2abb47d8-40c9-4364-bbf3-8e862a8aef10"
   }
