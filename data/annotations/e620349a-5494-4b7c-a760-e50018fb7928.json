@@ -107,6 +107,35 @@
         }
       ],
       "uuid": "aa222f6b-472f-4828-b9b9-3315794f015a"
+    },
+    {
+      "start_time": 290,
+      "end_time": 344,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This moment seems central to the AI reporter’s motive for delivering this news report. When he says he wants to “speak directly” about what is driving a wedge between two historic allies, he signals that there is an urgent issue that demands attention. This establishes the exigence of the report—the pressing issue that justifies delivering this message. He frames the situation as a growing division, which heightens the seriousness of the issue and positions himself as someone stepping in to address the tension. For about the next minute, he talks about tariffs being the main source of conflict. By narrowing down the issue at hand, he provides the audience with a clear cause for the tension and reinforces its urgency. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(EW)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Exigence",
+          "category": "Expanded Rhetorical Triangle"
+        }
+      ],
+      "uuid": "12a24c45-d05b-4ab0-9467-2fa3752adc19"
     }
   ],
   "set": "Default",
