@@ -157,6 +157,27 @@
         }
       ],
       "uuid": "2a146cbf-9885-4b2c-8be9-c514b6d316df"
+    },
+    {
+      "start_time": 23,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The target audience for this video is primarily high-level stakeholders, including banks, corporate executives, institutional investors, and government policymakers who need to anticipate major structural shifts in the global economy. It also speaks to simply the public and analysts/logistics experts who track how political decoupling manifests in physical supply chains and capital flows. By focusing on the breakup between Canada and the U.S., the content appeals to those whose portfolios or operations are deeply integrated into North American trade, providing them with a provocative lens to evaluate risk and strategic resilience. (MS)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience",
+          "category": "Expanded Rhetorical Triangle"
+        }
+      ],
+      "uuid": "acd08269-efd1-4874-a1c6-5f5248ab5bf4"
     }
   ],
   "set": "Default",
