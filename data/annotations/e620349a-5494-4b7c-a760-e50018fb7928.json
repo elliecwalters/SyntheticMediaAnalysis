@@ -207,6 +207,47 @@
         }
       ],
       "uuid": "1c16432f-50e0-41d5-b0f1-ddbe96a0817c"
+    },
+    {
+      "start_time": 522,
+      "end_time": 1210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This Ai video claims that Canada has blocked US banks, and that Wall Street is collapsing. It uses a realistic newsroom to set the stage and a anchor who hardly moves. The video really builds ethos because it imitates credible journalism. The pathos comes into play when it creates uncertainty about the future of the economy. The logos is really its weakest point because it provides no real evidence or reliable sources to all of these claims it kind of just expects you to believe it. The persuasive power is increased by the fact that audiences often trust televised reports. (IM)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "category": "Extra",
+          "tag": "Setting"
+        },
+        {
+          "tag": "Medium",
+          "category": "Expanded Rhetorical Triangle"
+        }
+      ],
+      "uuid": "5ef54dcb-24b7-4e4b-bfea-3b3e11bd32a8"
     }
   ],
   "set": "Default",
