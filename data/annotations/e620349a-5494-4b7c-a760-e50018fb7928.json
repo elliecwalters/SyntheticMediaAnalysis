@@ -178,6 +178,35 @@
         }
       ],
       "uuid": "acd08269-efd1-4874-a1c6-5f5248ab5bf4"
+    },
+    {
+      "start_time": 1080,
+      "end_time": 1258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This Ai model was able to create an Ai news reporter to communicate how Canada is blocking US banks and wall street is doomed. This video sets a tone of fear and uncertainty for the United States. It really blows up this story to new heights claiming that the US might be at risk of losing a lot of business in Europe and all the steak-holders overseas are going to leave because of this news . Overall, this Ai video was one big fear-mongering attempt to create buzz around whichever Ai model this is by using a digital/news medium. (IM)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Medium",
+          "category": "Expanded Rhetorical Triangle"
+        },
+        {
+          "tag": "Tone",
+          "category": "Extra"
+        },
+        {
+          "tag": "Communicator",
+          "category": "Expanded Rhetorical Triangle"
+        }
+      ],
+      "uuid": "1c16432f-50e0-41d5-b0f1-ddbe96a0817c"
     }
   ],
   "set": "Default",
