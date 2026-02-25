@@ -11,18 +11,18 @@
     },
     {
       "type": "paragraph",
-      "align": "center",
       "children": [
         {
           "text": "Works Cited"
         }
-      ]
+      ],
+      "align": "center"
     },
     {
       "type": "paragraph",
       "children": [
         {
-          "text": "  Deiss, Heather, and Abigail Bowman. “Apollo 11.” Nasa.Gov, 5 Jan. 2024, www.nasa.gov/mission/apollo-11/. "
+          "text": "Deiss, Heather, and Abigail Bowman. “Apollo 11.” Nasa.Gov, 5 Jan. 2024, www.nasa.gov/mission/apollo-11/. "
         }
       ]
     },
@@ -30,7 +30,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n  Thaler, F., Haug, M., Gewald, H., & Brune, P. (2024). The Context Sets the Tone: A Literature Review on Emotion Recognition from Speech Using AI. In F. Pennarola, J. Pallud, & A. M. Braccini (Eds.), "
+          "text": "\nThaler, F., Haug, M., Gewald, H., & Brune, P. (2024). The Context Sets the Tone: A Literature Review on Emotion Recognition from Speech Using AI. In F. Pennarola, J. Pallud, & A. M. Braccini (Eds.), "
         },
         {
           "text": "Technologies for Digital Transformation",
@@ -38,6 +38,14 @@
         },
         {
           "text": " (Vol. 64, pp. 129–143). Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-52120-1_8\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Dale, Daniel. \"Fact Check: Nine Trump False Claims about Canada | CNN Politics.\" CNN, 12 Mar. 2025, www.cnn.com/2025/03/12/politics/fact-check-trump-canada-claims.\n\n"
         }
       ]
     }
@@ -50,6 +58,6 @@
   "slug": "works-cited",
   "created_at": "2026-02-25T16:27:50.397Z",
   "created_by": "Miguel-212",
-  "updated_at": "2026-02-25T16:31:44.005Z",
-  "updated_by": "Miguel-212"
+  "updated_at": "2026-02-25T17:47:17.328Z",
+  "updated_by": "dt961"
 }
