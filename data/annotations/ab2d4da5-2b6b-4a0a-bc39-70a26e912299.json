@@ -194,6 +194,31 @@
         }
       ],
       "uuid": "fd9ff442-03a4-415c-91a1-8c1ba0382a56"
+    },
+    {
+      "start_time": 760,
+      "end_time": 830,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Ai Weatherman is showing various clips of the winter storms (apart from the poorly cropped charts). Some depicting a whole group of guys helping someone get their car out the snow or cars just driving in snowy conditions. The videos appear to be real but are not verifiable. They could honestly be videos of snowstorms in general that the Ai is trying to pass off as the valentines winter freeze. The main audience would be average news goers, because the Ai weatherman is trying to emulate real weather reporting showing videos \"on the scene\" and \"examples\" of how bad the snowstorm is. The purpose would be Ai trying to gain the audiences trust by posing as a news source"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience",
+          "category": "Expanded Rhetorical Triangle"
+        },
+        {
+          "tag": "Purpose",
+          "category": "Expanded Rhetorical Triangle"
+        }
+      ],
+      "uuid": "c02f0484-202a-42cc-8123-b2b2345a6202"
     }
   ],
   "set": "Default",
