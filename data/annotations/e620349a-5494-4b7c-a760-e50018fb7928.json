@@ -136,6 +136,27 @@
         }
       ],
       "uuid": "12a24c45-d05b-4ab0-9467-2fa3752adc19"
+    },
+    {
+      "start_time": 1190,
+      "end_time": 1258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The purpose of this video is to analyze and warn viewers about a significant economic shift, characterized as a \"financial breakup\" or \"decoupling\" between Canada and the United States. The speaker aims to clearly explain that this is not just a temporary disagreement, but a fundamental restructuring of logistics, procurement, and capital systems. By highlighting Canada's definitive move away from Wall Street, the video serves to provoke thought on the long-term geopolitical implications, specifically questioning how Washington will respond and whether global competitors like China or the European Union might exploit this divide to gain permanent leverage in North America. (MS)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Purpose",
+          "category": "Expanded Rhetorical Triangle"
+        }
+      ],
+      "uuid": "2a146cbf-9885-4b2c-8be9-c514b6d316df"
     }
   ],
   "set": "Default",
