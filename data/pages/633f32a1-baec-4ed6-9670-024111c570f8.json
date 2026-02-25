@@ -4,7 +4,40 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Deiss, Heather, and Abigail Bowman. “Apollo 11.” Nasa.Gov, 5 Jan. 2024, www.nasa.gov/mission/apollo-11/. "
+          "text": ""
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": "Works Cited"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "  Deiss, Heather, and Abigail Bowman. “Apollo 11.” Nasa.Gov, 5 Jan. 2024, www.nasa.gov/mission/apollo-11/. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n  Thaler, F., Haug, M., Gewald, H., & Brune, P. (2024). The Context Sets the Tone: A Literature Review on Emotion Recognition from Speech Using AI. In F. Pennarola, J. Pallud, & A. M. Braccini (Eds.), "
+        },
+        {
+          "text": "Technologies for Digital Transformation",
+          "italic": true
+        },
+        {
+          "text": " (Vol. 64, pp. 129–143). Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-52120-1_8\n"
         }
       ]
     }
@@ -17,6 +50,6 @@
   "slug": "works-cited",
   "created_at": "2026-02-25T16:27:50.397Z",
   "created_by": "Miguel-212",
-  "updated_at": "2026-02-25T16:29:57.189Z",
-  "updated_by": "isaacmendo2005-alt"
+  "updated_at": "2026-02-25T16:31:44.005Z",
+  "updated_by": "Miguel-212"
 }
