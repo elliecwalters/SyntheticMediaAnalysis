@@ -34,7 +34,7 @@
     "github_org": "elliecwalters",
     "is_private": false,
     "title": "AI Disinformation Rhetorics ",
-    "description": "Rhetorically analyzing deepfakes and other synthetic media have been created for weather reporters and alike, which is a big, rising problem. ",
+    "description": "Our project focuses on rhetorically analyzing deepfakes and other forms of synthetic media, and on how AI-generated weather reports and similar news-style videos have become a growing problem in today’s media world. We center our attention on examining how artificial intelligence can be used to craft persuasive yet completely misleading content that mimics convincing journalism. As AI becomes rapidly more advanced, it is increasingly difficult for viewers to distinguish between real and entirely fabricated reports. To explore this issue in depth, we have analyzed three AI-generated videos that present information in different rhetorical forms. Our first video is a weather report designed to engage with the audience to boost views. The second is a documentary-style video about a “new man on the moon” landing, which relies on storytelling to appear investigative and real, and to convince the viewer that the moon landing is fake. The last video is a serious and fabricated news report about Canada blocking banks, presenting completely false information. All together, these audiovisual events demonstrate how AI-generated videos can adopt many features of actual media and spread false information, underscoring the need for audiences to develop critical analysis skills. ",
     "language": "en",
     "slug": "SyntheticMediaAnalysis",
     "creator": "elliecwalters",
@@ -121,7 +121,7 @@
       ]
     },
     "created_at": "2026-02-11T15:58:08.410Z",
-    "updated_at": "2026-02-25T16:31:44.272Z",
+    "updated_at": "2026-02-25T16:40:37.479Z",
     "generate_pages_site": true
   },
   "annotations": {},
