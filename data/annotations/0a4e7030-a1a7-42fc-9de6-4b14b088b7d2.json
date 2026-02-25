@@ -211,6 +211,35 @@
         }
       ],
       "uuid": "f0d521b3-84f2-4da1-b854-6bfa467b5d42"
+    },
+    {
+      "start_time": 110,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "By using Ai"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Medium",
+          "category": "Expanded Rhetorical Triangle"
+        },
+        {
+          "tag": "Tone",
+          "category": "Extra"
+        },
+        {
+          "tag": "Purpose",
+          "category": "Expanded Rhetorical Triangle"
+        }
+      ],
+      "uuid": "f5990b67-8664-405e-963a-87c6d62c8729"
     }
   ],
   "set": "Default",
