@@ -76,27 +76,6 @@
       "uuid": "cf0a1980-1c7d-4b05-a631-7dd70ed21182"
     },
     {
-      "start_time": 67,
-      "end_time": 90,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "undefined"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Medium and Purpose"
-        }
-      ],
-      "uuid": "eb2a5878-f946-4743-8e2c-14bce918f992"
-    },
-    {
       "start_time": 17,
       "end_time": 35,
       "annotation": [
